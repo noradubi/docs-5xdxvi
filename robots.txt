@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-0xm1ai.cuansalam.cfd/sitemap.xml
